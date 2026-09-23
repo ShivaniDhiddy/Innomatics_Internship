@@ -1,0 +1,2 @@
+https://classification-prediction.herokuapp.com/ 
+http://localhost:8501/

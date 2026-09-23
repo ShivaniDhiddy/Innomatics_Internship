@@ -1,0 +1,6 @@
+m=int(input())
+m_val=set(map(int,input().split()))
+n=int(input())
+n_val=set(map(int,input().split()))
+ans=m_val.difference(n_val)
+print(len(ans))
